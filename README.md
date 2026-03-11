@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Florence, current BSIT student.
+I'm currently working on becoming a software engineer.
+Professional experience would be a great advantage to attain my goal so I'm actively looking for internship.
+I decided to focus on Java to build my discipline in building a software.
+I am also building my skills within the Java's rich ecosystem for building real-world applications.
+
 <!--
 **potzes/potzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
