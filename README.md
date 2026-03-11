@@ -7,14 +7,12 @@ Professional experience would be a great advantage to attain my goal so I'm acti
 I decided to focus on Java to build my discipline in building a software.  
 I am also building my skills within the Java's rich ecosystem for building real-world applications.  
 
-***
 ## Tech Stack
 - Java  
 - Maven  
 - HikariCP  
 - MySQL  
 
-***
 ## About Me Outside Tech
 - Basketball (a lot)
 - Badminton (a lot)
