@@ -17,7 +17,6 @@ I am also building my skills within the Java's rich ecosystem for building real-
 - Badminton (a lot)
 - Table Tennis
 - Guitar
-- Dance (a bit)
 - Random craftings
 
 <!--
